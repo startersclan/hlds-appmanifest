@@ -17,17 +17,6 @@
         "UserConfig"
         {
         }
-        "InstalledDepots"
-        {
-                "1"
-                {
-                        "manifest"              "5409401804038872403"
-                }
-                "71"
-                {
-                        "manifest"              "778444776426820105"
-                }
-        }
         "MountedDepots"
         {
                 "1"             "5409401804038872403"

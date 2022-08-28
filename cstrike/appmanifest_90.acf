@@ -18,17 +18,6 @@
         {
                 "mod"           "cstrike"
         }
-        "InstalledDepots"
-        {
-                "4"
-                {
-                        "manifest"              "6246909582980773196"
-                }
-                "1006"
-                {
-                        "manifest"              "4340969341640026639"
-                }
-        }
         "MountedDepots"
         {
                 "4"             "6246909582980773196"
